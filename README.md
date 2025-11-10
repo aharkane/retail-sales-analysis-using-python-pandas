@@ -1,4 +1,4 @@
-# Transactions Analysis Using Pandas
+# Retail Sales Analysis Using Python/Pandas
 
 ## Project Overview
 
