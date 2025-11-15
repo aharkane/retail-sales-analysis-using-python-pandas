@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A comprehensive **data analysis project** leveraging Python Pandas and NumPy to analyze transactional retail data from a company acquisition target. This project demonstrates enterprise-level exploratory data analysis (EDA), data wrangling, and business insights extraction from large-scale retail transaction datasets.
+In this project i analyze transactional retail data from a company acquisition target. This project demonstrates enterprise-level exploratory data analysis (EDA), data wrangling, and business insights extraction from large-scale retail transaction datasets.
 
 ## Project Goals
 
