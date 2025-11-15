@@ -59,51 +59,6 @@ In this project i analyze transactional retail data from a company acquisition t
 - Bounded discount percentages between 0 and 1
 - Identified high-discount transactions for pricing strategy analysis
 
-### Business Metrics
-
-**Overall Statistics (2021 Dataset)**
-- Total Sales: $6,666,243.50
-- Total Discount: -$1,178,658.08
-- Overall Discount Rate: -17.68% (negative indicates net discounting)
-- Total Units Sold: 216,713,611
-- Average Price per Basket: $28.62
-- Average Lifetime Value per Household: $3,175.91
-
-**Top Customers by Revenue**
-1. Jordan Turner: $14,686.70
-2. Nicole Blue: $11,494.93
-3. Maurice Shan: $10,525.60
-4. Janet Munoz: $10,070.11
-5. Alexandra Hall: $9,710.76
-
-**Top Products by Sales Value**
-1. Mountain-200 Black, 46: $718,987.58
-2. Mountain-200 Silver, 46: $687,794.17
-3. Mountain-200 Black, 38: $668,006.02
-4. Mountain-200 Black, 42: $647,760.93
-5. Mountain-200 Silver, 38: $641,145.80
-
-**Product Category Analysis**
-- Bikes: 50.8% of sales (dominant category)
-- Helmets: 33.5% of sales
-- Gloves: 15.7% of sales
-
-### Customer Segmentation
-
-**Top Household Revenue Analysis**
-- Distribution skewed toward long-tail (80/20 pattern)
-- 2,099 total households with wide variation in lifetime value
-- Opportunity for targeted customer retention strategies
-
-**Most Purchased Items**
-- Analyzed product frequency within top 10 customer segments
-- Identified cross-selling opportunities and bundling potential
-- High-quantity transactions for bulk/industrial items
-
-**Top Customer by Category**
-- Bikes: Carson Butler ($318.00)
-- Helmets: Hailey Patterson ($209.94)
-- Gloves: Joan Coleman ($97.96)
 
 ## Key Implementations
 
@@ -157,36 +112,3 @@ transactions = (transactions
 ✓ Performed comprehensive EDA with visualization  
 ✓ Generated actionable recommendations for business stakeholders  
 
-## Skills Demonstrated
-
-**Data Processing & Analysis:**
-- Advanced Pandas operations (groupby, aggregation, filtering)
-- NumPy numerical computations
-- Data type optimization and memory management
-- Feature engineering and derived metrics
-- Multi-dimensional aggregations and pivoting
-
-**Data Quality & Exploration:**
-- Missing data assessment and handling
-- Outlier identification and analysis
-- Distribution analysis and statistics
-- Data validation and consistency checks
-- Uniqueness and cardinality analysis
-
-**Business Analytics:**
-- Customer segmentation and RFM analysis
-- Product performance analysis
-- Revenue attribution and allocation
-- Discount impact assessment
-- Cross-selling opportunity identification
-
-**Python Development:**
-- Jupyter Notebook programming
-- Pandas/NumPy library mastery
-- Data visualization with Matplotlib
-- Lambda functions and functional programming
-- Complex data transformations and aggregations
-
----
-
-*This project demonstrates practical data analysis skills for business intelligence, customer analytics, and due diligence in acquisition scenarios.*
